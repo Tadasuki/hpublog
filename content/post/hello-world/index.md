@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: 我的第一篇blog
 description: Welcome to Hugo Theme Stack
 slug: hello-world
 date: 2022-03-06 00:00:00+0000
