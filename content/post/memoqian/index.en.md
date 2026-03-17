@@ -1,13 +1,14 @@
 ---
 title: Remembering Ms. Qian Jiayun - A Nobel Prize Just a Step Away, A Romantic Seventy Years of Life
 description: In Memoriam of the Great Biologist
-slug: hello-world
+slug: memoqian
 date: 2026-03-14 00:00:00+0000
-image: cover.jpg
+image: cover.png
 categories:
-    - Example Category
+    - Essays
 tags:
-    - Example Tag
+    - Reflection
+    - Biology
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 > Introduction: True excellence doesn't need to seek redress from this utilitarian world. These mediocre talents, happily huddled in their iron houses, are nothing but a group of comical shadows in the face of her serene demeanor.

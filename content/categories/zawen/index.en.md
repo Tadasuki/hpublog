@@ -1,7 +1,7 @@
 ---
-title: Example Category
+title: Essays
 description: A description of this category
-image:
+image: cate.jpg
 
 # Badge style
 style:

@@ -1,13 +1,14 @@
 ---
 title: 念钱嘉韵女士：遗珠诺奖咫尺间，浪漫人生七十年
 description: 悼念伟大的生物学家钱嘉韵女士
-slug: hello-world
+slug: memoqian
 date: 2026-03-14 00:00:00+0000
-image: cover.jpg
+image: cover.png
 categories:
-    - Example Category
+    - 杂文随笔
 tags:
-    - Example Tag
+    - 反思
+    - 生物学
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 > 引：真正的杰出，是不必向这个功利的世界讨要说法的。这些在铁屋子里卷得不亦乐乎的庸才们，在她的淡然面前，不过是一群滑稽的影子。

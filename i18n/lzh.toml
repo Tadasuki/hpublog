@@ -41,29 +41,29 @@ darkMode   = "玄夜"
     resultTitle = "#PAGES_COUNT 果 （用 #TIME_SECONDS 秒時）"
 
 [footer]
-    builtWith  = "用 {{ .Generator }} 建"
-    designedBy = "{{ .Theme }} 由 {{ .DesignedBy }} 設"
+    builtWith  = "以 {{ .Generator }} 建"
+    designedBy = "{{ .Theme }} 由 {{ .DesignedBy }} 制"
 
 [cookies]
-    title             = "Cookie同意"
-    text              = "吾等用 Cookie 增君瀏覽之便且析站之流量。"
-    acceptAll         = "全受"
+    title             = "納曲奇"
+    text              = "吾等以曲奇增君瀏覽之便且析站之流量。"
+    acceptAll         = "全納"
     deny              = "拒"
     managePreferences = "掌設"
-    settingsTitle     = "Cookie設"
+    settingsTitle     = "曲奇設"
     savePreferences   = "存設"
     cancel            = "消"
-    footerLink        = "Cookie設"
+    footerLink        = "曲奇設"
     commentsDisabled  = "評論已停用，直到您接受功能性 Cookie。"
 
     [cookies.necessary]
-        title = "必要"
-        text  = "此Cookie乃網站運作之根本，不可停用。"
+        title = "要"
+        text  = "此曲奇乃本站運作之根本，不可停也。"
 
     [cookies.analytics]
-        title = "分析"
-        text  = "此Cookie助吾等明訪客之所以互動與吾站。"
+        title = "析"
+        text  = "此曲奇助吾等明訪客互動與吾站之法。"
 
     [cookies.functional]
-        title = "能性"
-        text  = "此Cookie啟評論及嵌內容."
+        title = "能"
+        text  = "此曲奇使暢論其中。"

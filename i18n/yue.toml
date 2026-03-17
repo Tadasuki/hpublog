@@ -1,0 +1,69 @@
+toggleMenu = "切換選單"
+darkMode   = "深色模式"
+
+[list]
+    page       = "{{ .Count }} 篇文章"
+    section    = "章節"
+    subsection = "子章節"
+
+[article]
+    back            = "返嚟"
+    tableOfContents = "目錄"
+    relatedContent  = "相關內容"
+    lastUpdatedOn   = "上次改過於"
+    readingTime     = "閱讀時間 {{ .Count }} 分鐘"
+
+    [article.alert]
+        note      = "備註"
+        tip       = "提示"
+        important = "重要"
+        warning   = "警告"
+        caution   = "注意"
+
+[notFound]
+    title    = "揾唔到頁面"
+    subtitle = "呢个頁面唔存在"
+
+[widget]
+    [widget.archives]
+        title = "歸檔"
+        more  = "更多"
+
+    [widget.tagCloud]
+        title = "標籤"
+
+    [widget.categoriesCloud]
+        title = "分類"
+
+[search]
+    title       = "尋"
+    placeholder = "輸入關鍵字..."
+    resultTitle = "揾到 #PAGES_COUNT 個結果 (用時 #TIME_SECONDS 秒)"
+
+[footer]
+    builtWith  = "使用 {{ .Generator }} 建立"
+    designedBy = "主題 {{ .Theme }} 系 {{ .DesignedBy }} 設計"
+
+[cookies]
+    title             = "Cookie 同意"
+    text              = "我啲使用 Cookie 來增強你嘅瀏覽體驗並分析網站流量。"
+    acceptAll         = "接受全部"
+    deny              = "拒絕"
+    managePreferences = "管理偏好設定"
+    settingsTitle     = "Cookie 偏好設定"
+    savePreferences   = "儲存偏好設定"
+    cancel            = "取消"
+    footerLink        = "Cookie 設定"
+    commentsDisabled  = "評論已停用，直到你接受功能性 Cookie。"
+
+    [cookies.necessary]
+        title = "必要"
+        text  = "呢啲 Cookie 系網站運作嘅必需，冇法停用。"
+
+    [cookies.analytics]
+        title = "分析"
+        text  = "呢啲 Cookie 幫助我啲了解訪客點與我啲嘅網站互動。"
+
+    [cookies.functional]
+        title = "功能性"
+        text  = "呢啲 Cookie 啟用評論同埋嵌入內容等功能."
