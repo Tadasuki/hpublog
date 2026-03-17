@@ -53,7 +53,7 @@ SortBy              = "default"
     enabled  = true
     provider = "twikoo"
     [comments.twikoo]
-        envId  = "https://xvyang-twikoo.hf.space"
+        envId  = "https://xvyang-twikoo2.hf.space"
         region = ""
         path   = ""
         lang   = "zh"
