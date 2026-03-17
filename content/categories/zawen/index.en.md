@@ -1,7 +1,7 @@
 ---
 title: Essays
 description: A description of this category
-image: cate.jpg
+image: cover.jpg
 
 # Badge style
 style:
