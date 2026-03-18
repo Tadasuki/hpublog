@@ -4,7 +4,7 @@ links:
   - title: GitHub
     description: GitHub is the world's largest software development platform.
     website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+    image: https://images.icon-icons.com/936/PNG/512/github-logo_icon-icons.com_73546.png
 
   - title: Wikipedia
     description: Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.

@@ -4,7 +4,7 @@ links:
   - title: GitHub
     description: GitHub是世界上最大的软件开发平台。
     website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+    image: https://images.icon-icons.com/936/PNG/512/github-logo_icon-icons.com_73546.png
 
   - title: 维基百科
     description: 维基百科是互联网最大的在线百科全书，每个人都可以编写和维护。

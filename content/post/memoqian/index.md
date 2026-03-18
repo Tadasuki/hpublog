@@ -1,7 +1,7 @@
 ---
 title: 念钱嘉韵女士：遗珠诺奖咫尺间，浪漫人生七十年
 description: 悼念伟大的生物学家钱嘉韵女士
-slug: memoqian
+slug: Post
 date: 2026-03-14 00:00:00+0000
 image: cover.png
 categories:

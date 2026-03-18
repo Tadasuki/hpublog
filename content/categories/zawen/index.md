@@ -1,6 +1,6 @@
 ---
 title: 杂文随笔
-description: A description of this category
+description: 所思所想，所见所闻
 image: cover.jpg
 
 # Badge style

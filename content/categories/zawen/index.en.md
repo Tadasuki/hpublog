@@ -1,6 +1,6 @@
 ---
 title: Essays
-description: A description of this category
+description: Thoughts, observations, and experiences
 image: cover.jpg
 
 # Badge style

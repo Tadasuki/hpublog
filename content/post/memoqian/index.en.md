@@ -1,7 +1,7 @@
 ---
 title: Remembering Ms. Qian Jiayun - A Nobel Prize Just a Step Away, A Romantic Seventy Years of Life
 description: In Memoriam of the Great Biologist
-slug: memoqian
+slug: Post
 date: 2026-03-14 00:00:00+0000
 image: cover.png
 categories:
