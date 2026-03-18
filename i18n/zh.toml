@@ -41,8 +41,8 @@ darkMode   = "暗色模式"
     resultTitle = "#PAGES_COUNT 个结果 （用时 #TIME_SECONDS 秒）"
 
 [footer]
-    builtWith  = "Copyright © 2026 赫萨帕唯伦大学 All Rights Reserved."
-    designedBy = "Powered by {{ .Generator }}, Theme by {{ .DesignedBy }}'s {{ .Theme }}"
+    builtWith  = "Copyright © 2026 赫萨帕维琳大学 All Rights Reserved.</br>Powered by {{ .Generator }}"
+    designedBy = "Theme by {{ .DesignedBy }}'s {{ .Theme }}"
 
 [cookies]
     title             = "Cookie 同意"

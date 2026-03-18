@@ -50,8 +50,9 @@ darkMode   = "Dark Mode"
     resultTitle = "#PAGES_COUNT pages (#TIME_SECONDS seconds)"
 
 [footer]
-    builtWith  = "Copyright © 2026 Hexa Pavilion University All Rights Reserved."
-    designedBy = "Powered by {{ .Generator }}, Theme by {{ .DesignedBy }}'s {{ .Theme }}"
+    builtWith  = "Copyright © 2026 Hexa-Pavilion University All Rights Reserved.</br>Powered by {{ .Generator }}"
+    designedBy = "Theme by {{ .DesignedBy }}'s {{ .Theme }}"
+
 
 [cookies]
     title             = "Cookie Consent"
