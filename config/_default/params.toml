@@ -51,7 +51,6 @@ SortBy              = "default"
 ## Comments
 [comments]
     enabled  = true
-<<<<<<< HEAD
     provider = "giscus"
     [comments.giscus]
         repo             = "Tadasuki/hpublog"
@@ -67,14 +66,6 @@ SortBy              = "default"
         lang             = "en"
         strict           = 0
         loading          = ""
-=======
-    provider = "twikoo"
-    [comments.twikoo]
-        envId  = "https://xvyang-twikoo2.hf.space"
-        region = ""
-        path   = ""
-        lang   = "zh"
->>>>>>> 3535d6d15a803a1a5dee5bc55ce38faf50ec7720
 
     # See all the available configurations at https://github.com/CaiJimmy/hugo-theme-stack/blob/master/config/_default/params.toml
     # Copy the configurations you need from there and paste it here.
