@@ -1,0 +1,78 @@
+toggleMenu = "메뉴 여닫기"
+darkMode   = "어두운 모드"
+
+[list]
+    section = "部分"
+
+    [list.page]
+        one   = "{{ .Count }} 페이지"
+        other = "{{ .Count }} 페이지"
+
+    [list.subsection]
+        one   = "一部"
+        other = "一部"
+
+[article]
+    back            = "뒤로가기"
+    tableOfContents = "目次"
+    relatedContent  = "關聯 글"
+    lastUpdatedOn   = "마지막 修訂: "
+
+    [article.readingTime]
+        one   = "{{ .Count }} 分 程度"
+        other = "{{ .Count }} 分 程度"
+
+    [article.alert]
+        note      = "參考"
+        tip       = "팁"
+        important = "重要"
+        warning   = "警告"
+        caution   = "注意"
+
+[notFound]
+    title    = "찾을 수 없음"
+    subtitle = "페이지를 찾을 수 없습니다."
+
+[widget]
+    [widget.archives]
+        title = "保管函"
+        more  = "더보기"
+
+    [widget.categoriesCloud]
+        title = "範疇 雲"
+
+    [widget.tagCloud]
+        title = "꼬리표 雲"
+
+[search]
+    title       = "檢索"
+    placeholder = "檢索語를 入力하세요..."
+    resultTitle = "#PAGES_COUNT 페이지 (#TIME_SECONDS 秒)"
+
+[footer]
+    builtWith  = "Copyright © 2026 헥사파빌리온 大學校 All Rights Reserved.</br>Powered by {{ .Generator }}"
+    designedBy = "Theme by {{ .DesignedBy }}'s {{ .Theme }}"
+
+[cookies]
+    title             = "쿠키 同意"
+    text              = "브라우징 經驗을 向上시키고 사이트 트래픽을 分析하기 爲해 쿠키 使用합니다."
+    acceptAll         = "모두 許容"
+    deny              = "拒否"
+    managePreferences = "設定 管理"
+    settingsTitle     = "쿠키 設定"
+    savePreferences   = "設定 貯藏"
+    cancel            = "取消"
+    footerLink        = "쿠키 設定"
+    commentsDisabled  = "機能적 쿠키를 受諾할 때까지 對글이 非活性화됩니다."
+
+    [cookies.necessary]
+        title = "必需"
+        text  = "이 쿠키는 웹사이트 機能에 必要하며 非活性화할 수 없습니다."
+
+    [cookies.analytics]
+        title = "分析"
+        text  = "이 쿠키는 訪問者가 웹사이트 相互작용하는 方式을 理解하는 데 도움이 됩니다."
+
+    [cookies.functional]
+        title = "機能적"
+        text  = "이 쿠키는 對글 및 임베디드 內容와 같은 機能을 活性化합니다."

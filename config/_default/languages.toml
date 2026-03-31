@@ -1,11 +1,37 @@
 # Rename this file to languages.toml to enable multilingual support
 [zh]
-    languageName      = "汉语"
+    languageName      = "中文(简体)"
     languagedirection = "ltr"
     title             = "曲陵札记"
     weight            = 1
+[lzh]
+    languageName      = "文言"
+    languagedirection = "ltr"
+    title             = "曲陵札記"
+    weight            = 2
+[yue]
+    languageName      = "粵語"
+    languagedirection = "ltr"
+    title             = "曲陵札記"
+    weight            = 3
+[ko]
+    languageName      = "한국어(한글)"
+    languagedirection = "ltr"
+    title             = "코클링 노트"
+    weight            = 4
+[oko]
+    languageName      = "朝鮮語(國漢文)"
+    languagedirection = "ltr"
+    title             = "曲陵札記"
+    weight            = 5
+[ja]
+    languageName      = "日本語"
+    languagedirection = "ltr"
+    title             = "曲陵札记"
+    weight            = 6
 [en]
     languageName      = "English"
     languagedirection = "ltr"
     title             = "Kokling Notes"
-    weight            = 2
+    weight            = 7
+
